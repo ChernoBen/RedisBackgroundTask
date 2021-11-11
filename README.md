@@ -1,1 +1,1 @@
-docker run --name redis 6379:6379 - d -t redis:alpine
+#executando tarefas em background com bull e redis
